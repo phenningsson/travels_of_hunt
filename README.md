@@ -3,6 +3,8 @@ GitHub repository for the code used for analysing and mapping the expressed sent
 
 Used for the course (by me, as a student) "Digital Humanities Research Methods" as part of the Master's programme in Digital Humanities at the Linnaeus University. 
 
+The project...
+
 Main locations visisted during Hunt's journey around the world (time sensitive gif, where the duration of a location being visible on the map coresponds to the amount of time spent there - the longer the visibility of a location, the longer the stay): 
 ![comp_loc_travel](https://github.com/user-attachments/assets/4b090546-6406-4a12-9e38-d4bbbd3cd326)
 
